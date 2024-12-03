@@ -1,5 +1,5 @@
 # The-Complete-Python-Course
-A comprehensive Python course for beginners to advanced learners. This repository includes all course materials, such as code examples, exercises, and projects covering essential to advanced topics like data types, control structures, functions, object-oriented programming and more. Perfect for enhancing your Python skills through practical coding!
+A comprehensive Python course designed for beginners to advanced learners. This repository contains all the course materials, including code examples, exercises, and projects that cover fundamental to advanced Python concepts. Topics include data types, control structures, functions, object-oriented programming, web scraping, and more. Perfect for anyone looking to enhance their Python skills through practical coding experience!
 
 ---
 
