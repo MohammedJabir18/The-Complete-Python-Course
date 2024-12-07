@@ -1,5 +1,5 @@
 """
-Q 3: Convert temperature from Celsius to Fahrenheit.
+Q3: Convert temperature from Celsius to Fahrenheit.
 """
 
 celsius = 15.3

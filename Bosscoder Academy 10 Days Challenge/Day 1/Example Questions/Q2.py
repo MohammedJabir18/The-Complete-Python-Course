@@ -1,5 +1,5 @@
 """
-Q 2: Calculate the sum of two numbers entered by the user.
+Q2: Calculate the sum of two numbers entered by the user.
 """
 
 # Ask the user for two numbers
