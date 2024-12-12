@@ -2,15 +2,15 @@
 Welcome to the Complete Python Course repository! This project is designed to provide a comprehensive guide to learning Python, all-in-one learning resource for mastering Python programming. Built upon the foundational principles outlined in the "Mastering Python" documentation, it provides a structured pathway for learners to progress from beginner to advanced levels of Python proficiency. The repository integrates multiple learning aids, including real-world projects, coding exercises, and hands-on problem-solving challenges to ensure a robust understanding of Python concepts.
 
 ## 📚 Table of Contents
-1. [**About the Repository**](##About)
-2. [**Course Structure**](##Course)
-3. [**Features**](##Features)
-4. [**Learning Objectives**](##Learning)
-5. [**Prerequisites**](##Prerequisites)
-6. [**How to Use**](##How)
-7. [**Contributing**](##Contributing)
-8. [**License**](##License)
-9. [**Acknowledgments**](##Acknowledgments)
+1. [**About the Repository**](#about-the-repository)
+2. [**Course Structure**](#course-structure)
+3. [**Features**](#features)
+4. [**Learning Objectives**](#learning-objectives)
+5. [**Prerequisites**](#Prerequisites)
+6. [**How to Use**](#How-to-use)
+7. [**Contributing**](#contributing)
+8. [**License**](#license)
+9. [**Acknowledgments**](#acknowledgments)
 
 ## 1. About the Repository
 
