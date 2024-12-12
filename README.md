@@ -6,11 +6,11 @@ Welcome to the Complete Python Course repository! This project is designed to pr
 2. [**Course Structure**](#course-structure)
 3. [**Features**](#features)
 4. [**Learning Objectives**](#learning-objectives)
-5. [**Prerequisites**](#Prerequisites)
-6. [**How to Use**](#How-to-use)
+5. [**Prerequisites**](#prerequisites)
+6. [**How to Use**](#how-to-use)
 7. [**Contributing**](#contributing)
 8. [**License**](#license)
-9. [**Acknowledgments**](#acknowledgments)
+9. [**Acknowledgments**](#acknowledgements)
 
 ## 1. About the Repository
 
@@ -114,25 +114,23 @@ To make the most of this repository, you should have:
 
 If you’re new to Python, don't worry! The repository starts with the very basics.
 
-
-
 ## 6. How to Use
 
 1. **Clone the Repository**
 
-```python
-  https://github.com/MohammedJabir18/The-Complete-Python-Course.git
+```bash
+  git clone https://github.com/MohammedJabir18/The-Complete-Python-Course.git
   cd The-Complete-Python-Course
 ```
 
 2. **Navigate by Modules** Each module is organized into folders (Chapter 1, Chapter 2, ..., Chapter 10). Begin with Chapter 1 and follow the learning path sequentially.
 
 3. **Run the Exercises** Execute Python scripts by running:
-```python
+```bash
 python filename.py
 ```
 or
-```python
+```bash
 python filename.ipynb
 ```
 
@@ -140,23 +138,11 @@ python filename.ipynb
 
 5. **Test Your Knowledge** Test your skills with challenges inspired by **Bosscoder Academy’s 10-Day Challenge**. These exercises will push you to think critically and write efficient Python code.
 
-## 7. Installation
-
-To run the files in this repository, follow these steps:
-
-1. **Install Python**: Install Python
-
-2. **Install Required Packages**: If any modules require external libraries, you can install them using pip:
-```python
-pip install -r requirements.txt
-```
-
-    
-## 8. Contributing
+## 7. Contributing
 
 Contributions are welcome! If you’d like to add new exercises, improve the explanations, or report issues, follow these steps:
 
--  **Fork the Repository**: Click the "Fork" button at the top of the page.
+- **Fork the Repository**: Click the "Fork" button at the top of the page.
 
 - **Create a Branch**: Create a new branch for your feature or bugfix.
 
@@ -165,19 +151,19 @@ Contributions are welcome! If you’d like to add new exercises, improve the exp
 - **Submit a Pull Request**: Submit a pull request for review and feedback.
 
 Your contributions will make this repository even more useful for the community!
-## 9. License
+
+## 8. License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it as you see fit. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
 
-
-
-## 10. Acknowledgements
+## 9. Acknowledgements
 
 A special thank you to the following for inspiring and supporting the development of this repository:
 
- - [DS with Bappy](https://www.youtube.com/@dswithbappy)
+- [DS with Bappy](https://www.youtube.com/@dswithbappy)
 
- - **Generative AI Tools**: AI-driven insights for clarity and concept refinement.
+- **Generative AI Tools**: AI-driven insights for clarity and concept refinement.
 
- Happy Learning! 🚀
+Happy Learning! 🚀
+
 
