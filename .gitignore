@@ -1,6 +1,6 @@
 # IDE files
-/.idea
-/.vscode
+.idea/
+.vscode/
 
 # Development/Virtual Environments
 anaconda_projects/
