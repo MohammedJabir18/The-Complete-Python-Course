@@ -1,3 +1,6 @@
 [ 2024-12-25 20:07:55,657 ] root - INFO - Hello, My name is Jabir
 [ 2024-12-25 20:10:05,217 ] root - INFO - There are some issues with application
 [ 2024-12-25 20:21:38,189 ] root - INFO - [Errno 2] No such file or directory: 'Files/sample10.txt'
+[ 12/26/24-16-2024 11:16:59 AM ] root - INFO - Hello, My name is Jabir
+[ 12/26/24-17-2024 11:17:01 AM ] root - INFO - There are some issues with application
+[ 12/26/24-17-2024 11:18:37 AM ] root - INFO - [Errno 2] No such file or directory: 'Files/sample10.txt'
