@@ -1,0 +1,100 @@
+[ 28-12-2024 06:37:16 PM ] root - INFO - 
+[ 28-12-2024 06:37:16 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:37:16 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:37:36 PM ] root - INFO - 
+[ 28-12-2024 06:37:36 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:37:36 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:38:46 PM ] root - INFO - Recognizer.recognize_bing() missing 1 required positional argument: 'key'
+[ 28-12-2024 06:38:46 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:38:46 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:38:52 PM ] root - INFO - Recognizer.recognize_bing() missing 1 required positional argument: 'key'
+[ 28-12-2024 06:38:52 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:38:52 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:38:58 PM ] root - INFO - Recognizer.recognize_bing() missing 1 required positional argument: 'key'
+[ 28-12-2024 06:38:58 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:38:58 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:40:06 PM ] root - INFO - No module named 'botocore'
+[ 28-12-2024 06:40:07 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:40:07 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:41:38 PM ] root - INFO - 
+[ 28-12-2024 06:41:38 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:41:38 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:43:34 PM ] root - INFO - 
+[ 28-12-2024 06:43:34 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:43:34 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:43:50 PM ] root - INFO - 
+[ 28-12-2024 06:43:50 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:43:50 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:44:06 PM ] root - INFO - 
+[ 28-12-2024 06:44:06 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:44:06 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:45:44 PM ] root - INFO - 
+[ 28-12-2024 06:45:44 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:45:44 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:48:56 PM ] root - INFO - 
+[ 28-12-2024 06:48:56 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:48:56 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:50:39 PM ] root - INFO - 
+[ 28-12-2024 06:50:39 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:50:39 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 06:52:12 PM ] root - INFO - 
+[ 28-12-2024 06:52:12 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 06:52:12 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 07:00:25 PM ] root - INFO - 
+[ 28-12-2024 07:00:25 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 07:00:25 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 07:01:01 PM ] root - INFO - 
+[ 28-12-2024 07:01:10 PM ] root - INFO - 
+[ 28-12-2024 07:01:19 PM ] root - INFO - 
+[ 28-12-2024 07:01:27 PM ] root - INFO - 
+[ 28-12-2024 07:01:36 PM ] root - INFO - 
+[ 28-12-2024 07:01:47 PM ] root - INFO - 
+[ 28-12-2024 07:01:56 PM ] root - INFO - 
+[ 28-12-2024 07:02:10 PM ] root - INFO - 
+[ 28-12-2024 07:02:25 PM ] root - INFO - 
+[ 28-12-2024 07:02:44 PM ] root - INFO - 
+[ 28-12-2024 07:02:54 PM ] root - INFO - 
+[ 28-12-2024 07:03:11 PM ] root - INFO - 
+[ 28-12-2024 07:03:11 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 07:03:11 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 07:03:53 PM ] root - INFO - 
+[ 28-12-2024 07:04:01 PM ] root - INFO - 
+[ 28-12-2024 07:04:21 PM ] root - INFO - 
+[ 28-12-2024 07:04:36 PM ] root - INFO - 
+[ 28-12-2024 07:04:48 PM ] root - INFO - 
+[ 28-12-2024 07:04:49 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 07:04:49 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 07:42:37 PM ] root - INFO - 
+[ 28-12-2024 08:46:15 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:15 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180B7C9550>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:21 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:21 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C3585F0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:26 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:26 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C3582C0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:30 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:30 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C358D70>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:35 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:35 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C359520>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:39 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:39 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C359C70>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:42 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:42 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C35A990>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:46:52 PM ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 28-12-2024 08:46:52 PM ] root - INFO - HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=sorry%21+i+don%27t+understand&srinfo=suggestion&format=json&action=query (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002180C35ACF0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+[ 28-12-2024 08:47:48 PM ] root - INFO - Page id "that is" does not match any pages. Try another id!
+[ 28-12-2024 08:47:53 PM ] root - INFO - Page id "who is eli" does not match any pages. Try another id!
+[ 28-12-2024 08:49:05 PM ] root - INFO - 
+[ 28-12-2024 08:51:02 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:51:08 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 08:51:08 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
+[ 28-12-2024 08:51:13 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:51:23 PM ] root - INFO - 
+[ 28-12-2024 08:51:25 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:51:37 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:51:46 PM ] root - INFO - 
+[ 28-12-2024 08:51:46 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:51:51 PM ] root - INFO - 
+[ 28-12-2024 08:51:51 PM ] root - INFO - speak() takes 1 positional argument but 2 were given
+[ 28-12-2024 08:52:26 PM ] root - INFO - 
+[ 28-12-2024 08:52:26 PM ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jabir\\anaconda3\\envs\\jarvis_system\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 28-12-2024 08:52:26 PM ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jabir\anaconda3\envs\jarvis_system\Lib\site-packages\comtypes\gen'
