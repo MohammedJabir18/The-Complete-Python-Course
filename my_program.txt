@@ -1,0 +1,7 @@
+# This text file can be run in terminal using : "python my_program.txt"
+
+def display(name):
+    print(f"Hello {name}. Welcome to python programming")
+
+text = input("Enter your name: ")
+display(text)
