@@ -22,7 +22,7 @@ def log_info():
 
 class NLPModel:
     def get_model(self):
-        self.GOOGLE_API_KEY = "AIzaSyB9qGHgL96zAHU_Fwx_ApaV1uerxmD7iR8"
+        self.GOOGLE_API_KEY = "Here Give your API Key"
         try:
             genai.configure(api_key=self.GOOGLE_API_KEY)
             self.model = genai.GenerativeModel("gemini-1.5-flash")
