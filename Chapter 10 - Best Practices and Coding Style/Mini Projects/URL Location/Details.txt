@@ -1,0 +1,71 @@
+	claude.ai
+ip: 160.79.104.10
+anycast: True
+city: San Francisco
+region: California
+country: US
+loc: 37.7915,-122.4018
+org: AS399358 Anthropic, PBC
+postal: 94104
+timezone: America/Los_Angeles
+readme: https://ipinfo.io/missingauth
+
+	freecoursesites.com
+ip: 104.21.21.5
+anycast: True
+city: San Francisco
+region: California
+country: US
+loc: 37.7621,-122.3971
+org: AS13335 Cloudflare, Inc.
+postal: 94107
+timezone: America/Los_Angeles
+readme: https://ipinfo.io/missingauth
+
+	chat.openai.com
+ip: 172.64.150.28
+anycast: True
+city: San Francisco
+region: California
+country: US
+loc: 37.7621,-122.3971
+org: AS13335 Cloudflare, Inc.
+postal: 94107
+timezone: America/Los_Angeles
+readme: https://ipinfo.io/missingauth
+
+	www.google.com
+ip: 142.250.77.164
+hostname: maa05s17-in-f4.1e100.net
+city: Chennai
+region: Tamil Nadu
+country: IN
+loc: 13.0878,80.2785
+org: AS15169 Google LLC
+postal: 600001
+timezone: Asia/Kolkata
+readme: https://ipinfo.io/missingauth
+
+	github.com
+ip: 20.207.73.82
+city: Pune
+region: Maharashtra
+country: IN
+loc: 18.5196,73.8554
+org: AS8075 Microsoft Corporation
+postal: 411001
+timezone: Asia/Kolkata
+readme: https://ipinfo.io/missingauth
+
+	theresanaiforthat.com
+ip: 172.67.70.6
+anycast: True
+city: San Francisco
+region: California
+country: US
+loc: 37.7621,-122.3971
+org: AS13335 Cloudflare, Inc.
+postal: 94107
+timezone: America/Los_Angeles
+readme: https://ipinfo.io/missingauth
+

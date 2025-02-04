@@ -1,0 +1,17 @@
+[ 04-02-2025 08:46:01 PM ] - INFO - Model initialized successfully.
+[ 04-02-2025 08:46:01 PM ] - INFO - NLP app initialized.
+[ 04-02-2025 08:48:27 PM ] - WARNING - Invalid entry in the first menu.
+[ 04-02-2025 08:49:05 PM ] - INFO - New user registered Jabir18@gmail.com
+[ 04-02-2025 09:06:18 PM ] - INFO - Model initialized successfully.
+[ 04-02-2025 09:06:18 PM ] - INFO - NLP app initialized.
+[ 04-02-2025 09:06:51 PM ] - INFO - New user registered jabirjabzz18@gmail.com
+[ 04-02-2025 09:07:48 PM ] - WARNING - Login failed: Email not found - jabir18@gmail.com
+[ 04-02-2025 09:08:18 PM ] - WARNING - Invalid entry in the first menu.
+[ 04-02-2025 09:08:39 PM ] - INFO - User logged in: jabirjabzz18@gmail.com
+[ 04-02-2025 09:08:48 PM ] - WARNING - Invalid entry in the second menu.
+[ 04-02-2025 09:09:24 PM ] - INFO - Sentiment analysis completed for: I have read several articles about climate change recently
+[ 04-02-2025 09:10:24 PM ] - INFO - Language translation completed for: The package was delivered on time as expected.
+[ 04-02-2025 09:14:06 PM ] - INFO - Language detection completed for: Tene' Refugio in k'aaba'
+[ 04-02-2025 09:14:31 PM ] - INFO - Language translation completed for: Tene' Refugio in k'aaba'
+[ 04-02-2025 09:14:48 PM ] - INFO - User returned to the main menu.
+[ 04-02-2025 09:14:58 PM ] - INFO - User choice to exit the application.
